@@ -9,19 +9,14 @@ A machine learning project that predicts house prices based on various features 
 - Cleaned and preprocessed real-world housing data
 - Visualizations to understand key data patterns
 - Feature engineering and outlier detection
-- Trained multiple regression models (e.g., Linear Regression, Random Forest)
 - Evaluated with RMSE and R² Score
-- Flask web interface to input house features and get predictions
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **Python** 🐍
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Pickle
-- **Web Framework**: Flask
-- **Frontend**: HTML, CSS (optional Bootstrap)
-- **Deployment**: (Optional) Streamlit / Heroku / Vercel
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
